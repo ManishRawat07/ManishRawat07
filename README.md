@@ -6,8 +6,7 @@
 - 🌱 I’m pursuing my Masters in Engineering Data Science at The University of Houston.
 - 👯 I’m looking to collaborate on Data Science verse.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
-- 📫 How to reach me: 
-![<LinkedIn>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)[LinkedIn](https://www.linkedin.com/in/manishrawat07/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manishrawat07/)
 
 ## Skills
 
