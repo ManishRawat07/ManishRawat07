@@ -34,17 +34,12 @@ Here are some of my GitHub stats:
 
 ![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko)
 
-![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=gruvbox)
-
-![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=tokyonight)
-
-![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=dracula)
 
 ## Top Languages
 
 Here are some of the top programming languages I've used on GitHub:
 
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=true)](https://github.com/ManishRawat07/github-readme-stats)
 
 ## Let's Connect
 
