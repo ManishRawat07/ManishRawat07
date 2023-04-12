@@ -24,7 +24,7 @@ Here are some of my skills:
 Check out some of my latest projects:
 
 - [Project 1](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
-- [Project 2](https://github.com/yourusername/project2](https://github.com/ManishRawat07/IBM-Data-Science-Professional-Certification-Course)
+
 
 ## Stats
 
