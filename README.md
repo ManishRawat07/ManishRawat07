@@ -25,8 +25,6 @@ Check out some of my latest projects:
 
 - [Project 1](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
 - [Project 2](https://github.com/yourusername/project2](https://github.com/ManishRawat07/IBM-Data-Science-Professional-Certification-Course)
-- 
-
 
 ## Stats
 
@@ -39,7 +37,7 @@ Here are some of my GitHub stats:
 
 Here are some of the top programming languages I've used on GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=true)](https://github.com/ManishRawat07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=false)](https://github.com/ManishRawat07/github-readme-stats)
 
 ## Let's Connect
 
