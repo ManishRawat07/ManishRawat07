@@ -12,6 +12,8 @@
 
 Here are some of my skills:
 
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,aws,tensorflow,ai,pytorch,kubernetes,html,django,flask,stackoverflow,git,figma&theme=light)](https://skillicons.dev)
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,mysql,aws,tensorflow,ai,pytorch,kubernetes,html,django,flask,stackoverflow,git" />
