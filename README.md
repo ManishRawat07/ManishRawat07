@@ -3,10 +3,10 @@
 ## About Me
 
 - 🔭 I’m currently working & exploring the multiverse of Machine Learning & Data Science.
-- 🌱 I’m pursuing my Masters in Engineering Data Science at The University of Houston.
-- 👯 I'm interested in participating in collaborations within the data science domain to address humanitarian needs.
+- 🌱 Studying Masters of Science in Engineering Data Science at The University of Houston.
+- 👯 I'm interested in collaborating within the data science domain to redeem humanitarian issues.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manishrawat07/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manishrawat07/) 
 
 ## Skills
 
@@ -14,7 +14,7 @@ Here are some of my skills:
 
 - **Programming Languages:** Python, R, SQL
 - **Data Science Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, PowerBI
 - **Database Management Systems:** MySQL, PostgreSQL, MongoDB
 - **Web Development:** HTML, CSS, JavaScript, Flask, Django
 
