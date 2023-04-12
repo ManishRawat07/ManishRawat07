@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working & exploring the multiverse of Machine Learning & Data Science.
 - 🌱 I’m pursuing my Masters in Engineering Data Science at The University of Houston.
-- 👯 I’m looking to collaborate on Data Science verse.
+- 👯 I'm interested in participating in collaborations within the data science domain to address humanitarian needs.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manishrawat07/)
 
