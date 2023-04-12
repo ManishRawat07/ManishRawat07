@@ -18,13 +18,6 @@ Here are some of my skills:
   </a>
 </p>
 
-## Projects
-
-Check out some of my latest projects:
-
-- [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
-
-
 ## Stats
 
 Here are some of my GitHub stats:
@@ -38,6 +31,13 @@ Here are some of the top programming languages I've used on GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=false)](https://github.com/ManishRawat07/github-readme-stats)
 
+
+## Projects
+
+Check out some of my latest projects:
+
+- [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
+- 
 ## Let's Connect
 
 I'm always open to collaborating on new projects or chatting about data science, machine learning, and AI.
