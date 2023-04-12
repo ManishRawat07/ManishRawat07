@@ -12,6 +12,12 @@
 
 Here are some of my skills:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,ai,kubernetes,mysql,html,aws,flask,stackoverflow,git" />
+  </a>
+</p>
+
 - **Programming Languages:** Python, R, SQL
 - **Data Science Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, PowerBI
