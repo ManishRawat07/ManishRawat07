@@ -13,7 +13,7 @@
 
 Here are some of my skills:
 
-- **Programming Languages:** Python, R, SQL, Java, C++
+- **Programming Languages:** Python, R, SQL
 - **Data Science Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
 - **Database Management Systems:** MySQL, PostgreSQL, MongoDB
@@ -23,7 +23,7 @@ Here are some of my skills:
 
 Check out some of my latest projects:
 
-- [Project 1](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
+- [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
 
 
 ## Stats
