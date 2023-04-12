@@ -31,7 +31,9 @@ Check out some of my latest projects:
 
 Here are some of my GitHub stats:
 
-![ManishRawat07](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07)](https://github.com/ManishRawat07/github-readme-stats)
+
+![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=radical)
 
 ## Top Languages
 
