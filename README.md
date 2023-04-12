@@ -14,15 +14,9 @@ Here are some of my skills:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,ai,kubernetes,mysql,html,aws,flask,stackoverflow,git" />
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,aws,tensorflow,ai,pytorch,kubernetes,html,django,flask,stackoverflow,git" />
   </a>
 </p>
-
-- **Programming Languages:** Python, R, SQL
-- **Data Science Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, PowerBI
-- **Database Management Systems:** MySQL, PostgreSQL, MongoDB
-- **Web Development:** HTML, CSS, JavaScript, Flask, Django
 
 ## Projects
 
