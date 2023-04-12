@@ -1,4 +1,4 @@
-# Welcome to Manish Rawat's GitHub Profile!
+# Welcome to Manish's GitHub Profile!
 
 ## About Me
 
