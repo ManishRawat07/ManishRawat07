@@ -12,7 +12,7 @@
 
 Here are some of my skills:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,ai,kubernetes,mysql,html,aws,flask,stackoverflow,git" />
   </a>
