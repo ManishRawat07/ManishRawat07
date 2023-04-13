@@ -1,6 +1,6 @@
 # Welcome to Manish's GitHub Profile!
 
-## :dart: About Me 
+## :dart:  About Me 
 
 - 🔭 I’m currently working & exploring the multiverse of Machine Learning & Data Science.
 - :man_student: Pursuing MSc in Engineering Data Science at The University of Houston.
@@ -8,7 +8,7 @@
 - 💬 Ask me about anything related to data science, machine learning, and AI.
 - 📫 How to reach me: Email: mrawat@cougarnet.uh.edu or connect me on [LinkedIn](https://www.linkedin.com/in/manishrawat07/) 
 
-## :toolbox: Skills
+## :toolbox:  Skills
 
 Here are some of my skills:
 
@@ -18,26 +18,26 @@ Here are some of my skills:
   </a>
 </p>
 
-## :bar_chart: Stats
+## :bar_chart:  Stats
 
 Here are some of my GitHub stats:
 
 ![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko)
 
 
-## :computer: Top Languages
+## :computer:  Top Languages
 
 Here are some of the top programming languages I've used on GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=false)](https://github.com/ManishRawat07/github-readme-stats)
 
 
-## :briefcase: Projects 
+## :briefcase:  Projects 
 
 Check out some of my latest projects:
 
 - [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
 - 
-## Let's Connect
+## :people_holding_hands:  Let's Connect
 
 I'm always open to collaborating on new projects or chatting about data science, machine learning, and AI.
