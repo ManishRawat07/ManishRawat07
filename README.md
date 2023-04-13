@@ -1,14 +1,14 @@
 # Welcome to Manish's GitHub Profile!
 
-## About Me 
+## :dart: About Me 
 
 - 🔭 I’m currently working & exploring the multiverse of Machine Learning & Data Science.
-- :man_student: Studying Masters of Science in Engineering Data Science at The University of Houston.
-- 👯 I'm interested in collaborating within the data science domain to redeem humanitarian issues.
+- :man_student: Pursuing MSc in Engineering Data Science at The University of Houston.
+- :bulb: I'm interested in collaborating to the the data science community to redeem humanitarian issues.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
 - 📫 How to reach me: Email: mrawat@cougarnet.uh.edu or connect me on [LinkedIn](https://www.linkedin.com/in/manishrawat07/) 
 
-## Skills
+## :toolbox: Skills
 
 Here are some of my skills:
 
@@ -18,21 +18,21 @@ Here are some of my skills:
   </a>
 </p>
 
-## Stats
+## :bar_chart: Stats
 
 Here are some of my GitHub stats:
 
 ![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko)
 
 
-## Top Languages
+## :computer: Top Languages
 
 Here are some of the top programming languages I've used on GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=false)](https://github.com/ManishRawat07/github-readme-stats)
 
 
-## Projects
+## :briefcase: Projects 
 
 Check out some of my latest projects:
 
