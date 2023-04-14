@@ -18,20 +18,19 @@ Here are some of my skills:
   </a>
 </p>
 
-## :bar_chart:  Stats
-Here are some of my GitHub stats:
-
-### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact" align="right" height=150em>
 
 ## :briefcase:  Projects 
 
 Check out some of my latest projects:
 
 - [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
-- 
-## :people_holding_hands:  Let's Connect
 
-I'm always open to collaborating on new projects or chatting about data science, machine learning, and AI.
+
+## :bar_chart:  Stats
+Here are some of my GitHub stats:
+
+### Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=150em>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact" align="right" height=150em>
