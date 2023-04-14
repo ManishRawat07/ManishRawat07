@@ -30,7 +30,9 @@ Check out some of my latest projects:
 
 ### Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
+<p align="center">
+    <img src="https://profile-counter.glitch.me/{ManishRawat07}/count.svg" alt="Profile Visits" />
+</p>
 
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ManishRawat07&theme=dark&background=000000" alt="GitHub Streak" />
