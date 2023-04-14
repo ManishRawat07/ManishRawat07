@@ -32,4 +32,6 @@ Check out some of my latest projects:
 
 ![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManishRawat07&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=150em><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact" align="right" height=150em>
