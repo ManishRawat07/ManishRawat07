@@ -28,7 +28,7 @@ Check out some of my latest projects:
 
 ## :bar_chart:  My Stats
 
-<p align="center"> <b>Profile Visits<b> 
+<p align="center"> <b>Profile Views<b> 
   <br>
   <img src="https://profile-counter.glitch.me/{ManishRawat07}/count.svg" alt="Profile Visits" />
 </p>
