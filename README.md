@@ -1,4 +1,6 @@
-# Welcome to Manish's GitHub Profile!
+# Hey!! :wave: 
+
+Welcome to my Profile!
 
 ## :dart:  About Me 
 
