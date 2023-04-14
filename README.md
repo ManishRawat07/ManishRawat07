@@ -32,6 +32,4 @@ Check out some of my latest projects:
 
 ![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=150em>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact&theme=vision-friendly-dark" align="right" height=150em>
+<img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=150em><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact&theme=vision-friendly-dark" align="right" height=150em>
