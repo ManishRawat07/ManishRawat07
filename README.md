@@ -26,7 +26,7 @@ Check out some of my latest projects:
 - [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
 
 
-## :bar_chart:  Stats
+## :bar_chart:  My Stats
 
 <p align="center"> <b>Profile Visits<b> 
   <br>
