@@ -20,6 +20,9 @@ Here are some of my skills:
 
 ## :bar_chart:  Stats
 
+## Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
+
 Here are some of my GitHub stats:
 
 ![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko)
