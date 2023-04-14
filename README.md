@@ -18,14 +18,16 @@ Here are some of my skills:
   </a>
 </p>
 
-## :bar_chart:  Stats
-
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
 
+## :bar_chart:  Stats
 Here are some of my GitHub stats:
 
 ![ManishRawat07](https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=150em> 
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&hide_progress=false)](https://github.com/ManishRawat07/github-readme-stats)" align="right" height=150em>
 
 
 ## :computer:  Top Languages
