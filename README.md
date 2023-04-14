@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Manish+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 
-
 ## :dart:  About Me 
 
 - 🔭 I’m currently exploring the multiverse of Machine Learning & Data Science.
