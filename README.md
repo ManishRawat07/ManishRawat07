@@ -8,7 +8,7 @@
 - 💬 Ask me about anything related to data science, machine learning, and AI.
 - 📫 How to reach me: Email: mrawat@cougarnet.uh.edu or connect me on [LinkedIn](https://www.linkedin.com/in/manishrawat07/) 
 
-## :toolbox:  Skills
+## :toolbox:  Skills & Softwares
 
 Here are some of my skills:
 
@@ -31,6 +31,8 @@ Check out some of my latest projects:
 ### Profile Visits
 
 ![Visitor Count](https://profile-counter.glitch.me/{ManishRawat07}/count.svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManishRawat07&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=merko" align="left" height=160em>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
