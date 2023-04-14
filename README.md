@@ -1,6 +1,6 @@
-# Hey!! :wave: 
+# Hey, there! :wave: 
 
-Welcome to my Profile!
+## Welcome to my Profile!
 
 ## :dart:  About Me 
 
@@ -12,7 +12,7 @@ Welcome to my Profile!
 
 ## :toolbox:  Skills & Softwares
 
-Here are some of my skills:
+Here are some of technical skills:
 
 <p align="left">
   <a href="https://skillicons.dev">
