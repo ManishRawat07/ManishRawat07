@@ -3,7 +3,7 @@
 ## :dart:  About Me 
 
 - 🔭 I’m currently exploring the multiverse of Machine Learning & Data Science.
-- :man_student: Pursuing MSc in Engineering Data Science at The University of Houston.
+- :man_student: Pursuing MS in Engineering Data Science at The University of Houston.
 - :bulb: I'm interested in collaborating to the the data science community to redeem humanitarian issues.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
 - 📫 How to reach me: Email: mrawat@cougarnet.uh.edu or connect me on [LinkedIn](https://www.linkedin.com/in/manishrawat07/) 
