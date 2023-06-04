@@ -26,9 +26,9 @@ Check out some of my latest personel projects:
 - [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
 
 
-Check out my virtual Internship Projects:
+Check out my Virtual Internship projects:
 
-- [KPMG - Data Analytics](https://github.com/ManishRawat07/Virtual-Internships/tree/main/3.%20KPMG%20Virtual%20Internship%20-%20Data%20Analytics)
+- [KPMG - Virtual Internship (Data Analytics)](https://github.com/ManishRawat07/Virtual-Internships/tree/main/3.%20KPMG%20Virtual%20Internship%20-%20Data%20Analytics)
 
 
 ## :bar_chart:  My Stats
