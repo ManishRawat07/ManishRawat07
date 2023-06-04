@@ -21,9 +21,14 @@ Here are some of technical skills:
 
 ## :briefcase:  Projects 
 
-Check out some of my latest projects:
+Check out some of my latest personel projects:
 
 - [Oil Production Forecast](https://github.com/ManishRawat07/PETR6397-Final-Project-Oil-Production-Forecasting-using-Machine-Learning)
+
+
+Check out my virtual Internship Projects:
+
+- [KPMG - Data Analytics](https://github.com/ManishRawat07/Virtual-Internships/tree/main/3.%20KPMG%20Virtual%20Internship%20-%20Data%20Analytics)
 
 
 ## :bar_chart:  My Stats
