@@ -6,8 +6,8 @@
 - :man_student: Pursuing MS in Engineering Data Science at The University of Houston.
 - :bulb: I'm interested in collaborating to the the data science community to redeem humanitarian issues.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
-- 📫 How to reach me: Email: mrawat@cougarnet.uh.edu or connect me on [LinkedIn](https://www.linkedin.com/in/manishrawat07/) 
-
+- 📫 How to reach me: [Email](mrawat@cougarnet.uh.edu) and [LinkedIn](https://www.linkedin.com/in/manishrawat07/)           
+              
 ## :toolbox:  Skills & Softwares
 
 Here are some of technical skills:
@@ -17,8 +17,7 @@ Here are some of technical skills:
     <img src="https://skillicons.dev/icons?i=py,r,mysql,aws,tensorflow,ai,pytorch,kubernetes,html,django,flask,stackoverflow,git" />
   </a>
 </p>
-
-
+              
 ## :briefcase:  Projects 
 
 Check out some of my latest personel projects:
