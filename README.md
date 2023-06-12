@@ -29,6 +29,9 @@ Check out my Virtual Internship projects:
 
 - [KPMG - Virtual Internship (Data Analytics)](https://github.com/ManishRawat07/Virtual-Internships/tree/main/3.%20KPMG%20Virtual%20Internship%20-%20Data%20Analytics)
 
+## :newspaper: Published Articles
+
+- [Exploratory Data Analysis (EDA): Unveiling the Story Hidden in Data](https://www.linkedin.com/pulse/exploratory-data-analysis-eda-unveiling-story-hidden-manish-rawat%3FtrackingId=pZsc9rcaS1yfhb7NYtrFyw%253D%253D/?trackingId=pZsc9rcaS1yfhb7NYtrFyw%3D%3D)
 
 ## :bar_chart:  My Stats
 
