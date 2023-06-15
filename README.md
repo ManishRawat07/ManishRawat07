@@ -44,10 +44,14 @@ Check out my Virtual Internship projects:
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ManishRawat07&theme=dark&background=000000" alt="GitHub Streak" />
 </p>
 
+<!--
+
 <img src="https://github-readme-stats.vercel.app/api?username=ManishRawat07&show_icons=true&theme=tokyonight" align="left" height=160em>
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact&theme=dark" align="right" height=160em>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRawat07&layout=compact&theme=dark" align="right" height=160em> 
+ 
+ -->
   
   
   
