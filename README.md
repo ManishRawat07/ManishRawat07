@@ -21,6 +21,8 @@ Here are some of technical skills:
 ## :briefcase:  Projects 
 
 Check out some of my latest personel projects:
+- [SmarttBot Conversational ChatBot using LLM GEMINI AI](https://github.com/ManishRawat07/SmartBot)
+
 - [Customer Churn Prediction](https://checkcustomerchurn.streamlit.app/)
   
 - [Brain Tumor detection using CNN & Transfer Learning](https://github.com/ManishRawat07/Brain-Tumor-detection-using-CNN-TL)
