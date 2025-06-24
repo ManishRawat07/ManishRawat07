@@ -6,7 +6,7 @@
 - :man_student: Pursuing MS in Engineering Data Science at The University of Houston.
 - :bulb: I'm interested in collaborating to the the data science community to redeem humanitarian issues.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
-- 📫 How to reach me: [Email](mrawat@cougarnet.uh.edu)         
+- 📫 How to reach me: [Email](mailto:mrawat@cougarnet.uh.edu)   
               
 ## :toolbox:  Skills & Softwares
 
