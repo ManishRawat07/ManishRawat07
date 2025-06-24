@@ -6,7 +6,7 @@
 - :man_student: Pursuing MS in Engineering Data Science at The University of Houston.
 - :bulb: I'm interested in collaborating to the the data science community to redeem humanitarian issues.
 - 💬 Ask me about anything related to data science, machine learning, and AI.
-- 📫 How to reach me: [Email](mrawat@cougarnet.uh.edu) and [LinkedIn](https://www.linkedin.com/in/manishrawat07/)           
+- 📫 How to reach me: [Email](mrawat@cougarnet.uh.edu)         
               
 ## :toolbox:  Skills & Softwares
 
@@ -36,8 +36,8 @@ Check out my Virtual Internship projects:
 
 ## :newspaper: Published Articles
 
-- [Exploratory Data Analysis (EDA): Unveiling the Story Hidden in Data](https://www.linkedin.com/pulse/exploratory-data-analysis-eda-unveiling-story-hidden-manish-rawat%3FtrackingId=pZsc9rcaS1yfhb7NYtrFyw%253D%253D/?trackingId=pZsc9rcaS1yfhb7NYtrFyw%3D%3D)
-
+- Nothing to show in here: Stay tune!
+  
 ## :bar_chart:  My Stats
 
 <p align="center"> <b>Profile Views<b> 
